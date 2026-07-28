@@ -1,5 +1,5 @@
 const PAIR_URL =
-  "https://api.dexscreener.com/latest/dex/pairs/robinhood/0xcomingsoon";
+  "https://api.dexscreener.com/latest/dex/pairs/robinhood/0xbcca8c2dd0ffb6ca5210dba327e027756c047777";
 
 function showToast(message) {
   const toast = document.getElementById("copy-toast");
